@@ -1,7 +1,8 @@
 ---
 title: "Maxence Ouafik"
-image: profile.jpg
+image: ./img/profile.png
 about:
+  id: hero-heading
   template:  trestles
   links:
     - icon: github
@@ -21,9 +22,33 @@ about:
       href: https://twitter.com/Queerologie
 ---
 
+
+## A propos de l'auteur
+
+:::{#hero-heading}
+
+Maxence Ouafik est un médecin belge engagé pour la santé des minorités sexuelles et de genre. Il vit à Liège, en Belgique, avec son compagnon, un chien et un chat.
+
+### Education
+
+- **Université de Liège, Belgique** |
+Doctorat en sciences médicales | 2019 (en cours)
+
+- **Université de Liège, Belgique** |
+Master de spécialisation en médecine générale | 2019 - 2022
+
+### Experience
+
+- Centre Estelle Mazy | Médecin | 2022 - présent
+- Maison Médicale de Tilleur | Médecin | 2022 - 2024
+
+:::
+
+## Pratique, valeurs et objectifs
+
 En quelques mots, je suis un jeune médecin généraliste belge de 30 ans, un chercheur ainsi qu'un militant pour les droits et la santé des minorités sexuelles et de genre.
 
-Sur le plan clinique, j'exerce en maison médicale ainsi qu'en planning familial, où j'initie et suis des traitements hormonaux d'affirmation de genre. C'est à partir de cette expérience que j'ai rédigé mon [travail de fin d'études](https://maxenceouafik.github.io/TFE_THAG_2022/) qui m'a valu, en 2023, le Prix du Généraliste. Ma motivation, dans ce domaine, est d'améliorer l'accès au soin de première ligne des personnes trans, à la fois pour les aspects liés à une éventuelle transition médicale, ainsi que pour trouver des soins affirmatifs et respectueux, quel que soit le besoin de santé rencontré.
+Sur le plan clinique, j'exerce en maison médicale ainsi qu'en planning familial, où j'initie et suis des traitements hormonaux d'affirmation de genre. C'est à partir de cette expérience que j'ai rédigé mon [travail de fin d'études](https://maxenceouafik.github.io/TFE_THAG_2022/) qui m'a valu, en 2023, le Prix du Généraliste. Ma motivation, dans ce domaine, est d'améliorer l'accès au soin de première ligne des personnes trans, à la fois pour les aspects liés à une éventuelle transition médicale, ainsi que pour n'importe quel besoin de santé. 
 
 Mon travail de recherche, de son côté, se concentre essentiellement sur ma thèse, entamée en 2019. Celle-ci porte sur une exploration des liens entre masculinité, sexualité et santé chez les hommes ayant des relations sexuelles avec d'autres hommes, à travers le concept de syndémie. 
 

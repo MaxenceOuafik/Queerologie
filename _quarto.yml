@@ -3,21 +3,39 @@ project:
 
 website:
   title: "Queerologie"
+  repo-url: https://github.com/MaxenceOuafik/Queerologie
+  favicon: /img/logo.svg
+  open-graph: true
+  twitter-card: 
+    creator: "@queerologie"
+  site-url: https://querologie.org
+  search: true
+  back-to-top-navigation: true
   navbar:
-    right:
-      - about.qmd
+    logo: /img/logo.svg
+    pinned: true
+    collapse: true
+    left:
       - icon: github
         href: https://github.com/MaxenceOuafik
         aria-label: Profil GitHub
       - icon: twitter
         href: https://twitter.com/Queerologie
         aria-label: Profil Twitter
-      - icon: "{{{< ai google-scholar >}}}" 
-        href: google.com
+    right: 
+      - text: A propos de l'auteur
+        href: about.qmd
+  page-footer: 
+    center:
+      - text: Ce site et tout son contenu sont en licence CC-BY-NC
 format:
   html:
-    theme: cosmo
-    css: styles.css
-
+    lang: fr
+    language: 
+      fr:
+        title-block-author-single: "Auteur"
+    theme: 
+      light: journal
+      dark: darkly
 
 
