@@ -1,12 +1,14 @@
-# options specified here will apply to all posts in this folder
-
-# freeze computational output
-# (see https://quarto.org/docs/projects/code-execution.html#freeze)
 freeze: true
-
-# Enable banner style title blocks
 title-block-banner: true
-
+toc: true
+toc-depth: 4
+page-layout: article
 author: 
-  - name: Maxence Ouafik
+  - name: 
+      given: Maxence
+      family: Ouafik
+      literal: Maxence Ouafik
     orcid: 0000-0002-9795-5721
+    email: maxence.ouafik@uliege.be
+
+

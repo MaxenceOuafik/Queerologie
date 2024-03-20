@@ -8,7 +8,7 @@ website:
   open-graph: true
   twitter-card: 
     creator: "@queerologie"
-  site-url: https://querologie.org
+  site-url: "https://querologie.org"
   search: true
   back-to-top-navigation: true
   navbar:
@@ -22,9 +22,12 @@ website:
       - icon: twitter
         href: https://twitter.com/Queerologie
         aria-label: Profil Twitter
+      - icon: rss
+        href: index.xml
     right: 
       - text: A propos de l'auteur
         href: about.qmd
+  cookie-consent: false
   page-footer: 
     center:
       - text: Ce site et tout son contenu sont en licence CC-BY-NC
