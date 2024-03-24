@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "8f4c21ee-24cd-40bc-9673-328432454592"
+      url: "https://queerologie.org"
