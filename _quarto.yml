@@ -12,6 +12,8 @@ website:
   site-url: "https://querologie.org"
   search: true
   back-to-top-navigation: true
+  google-analytics: G-LCV004VWS0
+  cookie-consent: TRUE
   navbar:
     logo: /img/logo.svg
     pinned: true
@@ -28,7 +30,6 @@ website:
     right: 
       - text: A propos de l'auteur
         href: about.qmd
-  cookie-consent: false
   page-footer: 
     center:
       - text: Ce site et tout son contenu sont en licence CC-BY-NC
