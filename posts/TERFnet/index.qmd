@@ -2,7 +2,7 @@
 title: "Le planning familial, l'extrême droite, et les hommes enceints : autopsie d'une polémique transphobe"
 date: "2023-03-24"
 categories: [Actualités]
-image: "./graph_zoom.png"
+image: "./images/graph_zoom.png"
 abstract: |
     Analyse en réseau de la réacosphère et de son rôle dans les attaques contre le Planning Familial
 bibliography: "./TERFnet.bib"
