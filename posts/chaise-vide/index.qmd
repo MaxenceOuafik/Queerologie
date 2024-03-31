@@ -1,0 +1,32 @@
+---
+title: "La politique de la chaise vide"
+date: "2023-03-31"
+categories: [Réflexions]
+image: "thumbnail.jpg"
+abstract: |
+    Quelques réflexions sur le débat avec des militants anti-trans en tant que médecin cis
+draft: true
+---
+
+## Le contexte
+
+Début février, je recevais une invitation pour participer à une émission télévisée portant sur les mineurs trans. L'invitation provenait d'un journaliste qui avait reçu mon contact d'un ami, lui-même invité. Le programme en question devait être diffusé après un documentaire que je n'avais pas encore vu, *Gender Wars*, et visait à discuter de la thématique de la transidentité chez les mineurs. 
+
+Le documentaire, malgré son titre accrocheur, et un certain nombre de problèmes, était moins catastrophique que ce qui est souvent produit sur le sujet des transitions de mineurs. J'ai donc accepté l'invitation et j'ai reçu la liste complète des invités. Il y avait deux personnes trans, Sophie Dechêne, et moi-même. Après une courte recherche Google d'usage, j'apprenais que Sophie Dechête était la co-présidente de la branche belge de l'Observatoire de la Petite Sirène et s'était impliquée dans [la désinformation autour de l'EVRAS](https://www.rtbf.be/article/complotistes-extreme-droite-et-adeptes-de-theories-pedocriminelles-voici-le-reseau-des-desinformateurs-sur-levras-en-belgique-11256548)[^EVRAS]
+
+[^EVRAS]: Education à la vie Romantique, Affective et Sexuelle
+
+## Le dilemme
+
+Cette information changeait deux choses importantes : il s'agirait d'un débat plutôt que d'une discussion et une des invités était à la tête d'une [association tristement connue pour ses positions radicales et sa proximité avec l'extrême droite](https://petitesirene.outrans.net/sample-page/).
+
+Dans les milieux de gauche, auxquels j'appartiens, la politique de la chaise vide est souvent appliquée en pareilles circonstances. On refuse généralement - et à juste titre - de débattre avec l'extrême droite, ou les gens qui y sont associés. Les raisons fréquemment invoquées pour cela sont le refus de donner de la visibilité à des groupes extrémistes en échangeant avec. En outre, la faisabilité de pouvoir exposer ses arguments face à un flot de désinformation est elle aussi questionnée. 
+
+Dès lors, je me suis demandé s'il ne valait pas mieux annuler ma participation. Mais cela ne risquait-il pas de laisser le champ libre aux fausses informations qui allaient sans nulle doute être propagées ? Etait-il souhaitable de laisser les invités trans sans soutien externe ? 
+
+
+![Photo de Євгенія Височина sur Unsplash](chaise-vide.jpg){width="450" fig-align="center" fig-alt="Chaise rose rembourrée avec pieds en bois. Des ballons bleus sont visibles sur le coin supérieur gauche de l'image"}
+
+Plot twist : je me suis finalement rendu à l'émission et je pense que c'était la bonne décision. Cet article vise donc à détailler mes réflexions, nourries notamment par un débriefing avec mon compagnon. Trois éléments me semblent pertinents à analyser dans ce contexte : (1) ma position en tant que médecin cisgenre ; (2) le dispositif en lui-même et (3) les invités choisis. 
+
+## Parler de transitude en tant que médecin cis
