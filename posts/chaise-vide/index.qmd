@@ -4,7 +4,8 @@ date: "2023-03-31"
 categories: [Réflexions]
 image: "thumbnail.jpg"
 abstract: |
-    Quelques réflexions sur le débat avec des militants anti-trans en tant que médecin cis
+    Quelques réflexions sur le rôle des médecins alliés dans la lutte médiatique et intellectuelle contre la transphobie
+bibliography: "./chaise.bib"
 draft: true
 ---
 
@@ -20,13 +21,21 @@ Le documentaire, malgré son titre accrocheur, et un certain nombre de problème
 
 Cette information changeait deux choses importantes : il s'agirait d'un débat plutôt que d'une discussion et une des invités était à la tête d'une [association tristement connue pour ses positions radicales et sa proximité avec l'extrême droite](https://petitesirene.outrans.net/sample-page/).
 
-Dans les milieux de gauche, auxquels j'appartiens, la politique de la chaise vide est souvent appliquée en pareilles circonstances. On refuse généralement - et à juste titre - de débattre avec l'extrême droite, ou les gens qui y sont associés. Les raisons fréquemment invoquées pour cela sont le refus de donner de la visibilité à des groupes extrémistes en échangeant avec. En outre, la faisabilité de pouvoir exposer ses arguments face à un flot de désinformation est elle aussi questionnée. 
+Dans les milieux de gauche, auxquels j'appartiens, la politique de la chaise vide est souvent appliquée en pareilles circonstances. On refuse généralement - et à juste titre - de débattre avec l'extrême droite, ou les gens qui y sont associés. On refuse ainsi de donner de la visibilité à des groupes extrémistes en échangeant avec. En outre, la faisabilité de pouvoir exposer ses arguments face à un flot de désinformation est elle aussi questionnée. 
 
 Dès lors, je me suis demandé s'il ne valait pas mieux annuler ma participation. Mais cela ne risquait-il pas de laisser le champ libre aux fausses informations qui allaient sans nulle doute être propagées ? Etait-il souhaitable de laisser les invités trans sans soutien externe ? 
 
 
 ![Photo de Євгенія Височина sur Unsplash](chaise-vide.jpg){width="450" fig-align="center" fig-alt="Chaise rose rembourrée avec pieds en bois. Des ballons bleus sont visibles sur le coin supérieur gauche de l'image"}
 
-Plot twist : je me suis finalement rendu à l'émission et je pense que c'était la bonne décision. Cet article vise donc à détailler mes réflexions, nourries notamment par un débriefing avec mon compagnon. Trois éléments me semblent pertinents à analyser dans ce contexte : (1) ma position en tant que médecin cisgenre ; (2) le dispositif en lui-même et (3) les invités choisis. 
+Plot twist : je me suis finalement rendu à l'émission et je pense que c'était la bonne décision. Cet article vise donc à détailler mes réflexions après le tournage.Trois éléments me semblent pertinents à analyser dans ce contexte : (1) ma position en tant que médecin cisgenre ; (2) le dispositif en lui-même et (3) les invités choisis. Par delà ce cas spécifique, j'espère ainsi pouvoir alimenter la réflexion d'autres médecins qui se veulent allié.e.s de la communauté trans ainsi que de journalistes qui seraient tentés de proposer une émission ou un reportage sur le sujet de la transitude. 
+
+::: {.callout-tip}
+## Remerciement
+Avant d'aller plus loin, je souhaitais remercier mon compagnon, Alix Fournier, pour nos discussions à ce sujet, l'apport de ses réflexions et les références bibliographiques qu'il m'a indiquées. 
+:::
 
 ## Parler de transitude en tant que médecin cis
+
+S'exprimer sur le sujet de la transitude demande nécessairement de prendre en considération la position sociale depuis laquelle on parle. Dans mon cas de figure, deux points sont particulièrement saillants : je suis un homme cisgenre et je suis médecin. Or, ces deux élements vont influencer à la fois le fait que l'on m'invite pour parler de ces questions, ma manière d'envisager le sujet,  la crédibilité que l'on accordera à mes propos et la coloration de mon discours. 
+
