@@ -1,6 +1,7 @@
 ---
 title: Guidelines
 subtitle: La Cass des soins 
+date: "2024-05-05"
 bibliography: "./cass.bib"
 draft: true
 ---
@@ -77,12 +78,11 @@ Par ailleurs, et en lien avec le point précédent, vu qu'il n'y avait pas de pr
 
 ```{r}
 #| include: false
-rigor <- c(44, 12, 24, 51, 10, 44, 42, 39, 12, 16, 30, 12, 13, 19, 17, 21, 18, 71, 23, 26, 35)
-m_rigor <- round(mean(rigor), digits = 0)
-sd_rigor <- round(sd(rigor), digits = 0)
+m_rigour <- round(mean(agree_scoring$rigour), digits = 0)
+sd_rigour <- round(sd(agree_scoring$rigour), digits = 0)
 ```
 
-Comme expliqué dans le @sec-resum, seules les guidelines suédoises et finlandaises ont été recommandées par les auteurs, notamment en raison de leur rigueur méthodologique > 50%. Un rapide coup d'œil à leur grille de cotation [@taylor2024clinical, p. 5] montre en effet que ces deux études se démarquent *clairement* du lot. En effet, la rigueur méthodologique moyenne était de  `{r} m_rigor`% avec un écart-type de `{r} sd_rigor`%. Or, les guidelines suédoises ont obtenu un score de 51% et les guidelines finlandaises, un score de 71% ! Cela correspond à une différence de plus de deux écarts-types pour les suédoises et de plus de 3 écarts-types pour les finlandaises ! En des termes plus concrets, il s'agit de valeurs aberrantes (ou **outliers**, en anglais), soit des valeurs qui s'écartent nettement de la tendance générale. 
+Comme expliqué dans le @sec-resum, seules les guidelines suédoises et finlandaises ont été recommandées par les auteurs, notamment en raison de leur rigueur méthodologique > 50%. Un rapide coup d'œil à leur grille de cotation [@taylor2024clinical, p. 5] montre en effet que ces deux études se démarquent *clairement* du lot. En effet, la rigueur méthodologique moyenne était de  `{r} m_rigour`% avec un écart-type de `{r} sd_rigour`%. Or, les guidelines suédoises ont obtenu un score de 51% et les guidelines finlandaises, un score de 71% ! Cela correspond à une différence de plus de deux écarts-types pour les suédoises et de plus de 3 écarts-types pour les finlandaises ! En des termes plus concrets, il s'agit de valeurs aberrantes (ou **outliers**, en anglais), soit des valeurs qui s'écartent nettement de la tendance générale. 
 
 On est donc en droit de s'attendre à des guidelines particulièrement extraordinaires. Or, les références de l'article pour les guidelines suédoises pointent vers un [document PDF non traduit](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/kunskapsstod/2022-12-8302.pdf). En passant ce document dans DeepL Pro, ce que les auteurs avaient évoqué comme manière potentielle de traduire certains articles, une surprise de taille nous attend : il n'y a aucune information sur la méthodologie ! Juste la mention d'un fichier annexe reprenant la méthodologie. En cherchant sur le site de la sécurité sociale suédoise, et après quelques erreurs 404, il est possible de retrouver [l'annexe en question](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/kunskapsstod/2022-12-8302-kunskapsunderlag-med-metodbeskrivning.pdf) qui donne davantage d'informations. Toutefois, il est curieux que ces guidelines, qui ont pourtant eu un score aussi élevé, n'aient donné aucune information sur leur méthodologie dans le texte principal, ce qui a été suffisant pour exclure 4 guidelines sur les 23 identifiées. 
 L'étude de cette annexe permet aussi de voir, page 64 de la version traduite par DeepL Pro, que les guidelines suédoises ont été envoyées à des associations trans pour avoir leur feedback. Sans surprise, les associations se sont inquiétées du caractère restrictif de ces guidelines. Ces inquiétudes n'ont évidemment pas été prises en compte, mais cela n'a pas empêché les auteurs de cette revue de leur accorder un score de 87% pour la participation des personnes concernées !
