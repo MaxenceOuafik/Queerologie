@@ -1,4 +1,4 @@
-freeze: true
+freeze: auto
 title-block-banner: true
 toc: true
 toc-depth: 4

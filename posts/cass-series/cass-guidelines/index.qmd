@@ -1,7 +1,7 @@
 ---
 title: Standards de soin et double standard d'évaluation
 subtitle: La Cass·e des soins de santé pour les jeunes trans
-date: "2024-05-09"
+date: '2024-05-09'
 image: "./thumbnail.jpg"
 abstract: |
     Analyse critique de l'article du Cass Report évaluant la qualité méthodologique des guidelines sur la prise en charge des mineur·e·s trans
