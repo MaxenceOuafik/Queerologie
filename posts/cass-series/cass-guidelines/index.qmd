@@ -20,7 +20,7 @@ renv::use(lockfile = "./renv.lock")
 
 ::: {.callout-note collapse="true" appearance="simple"}
 ### Mise à jour (10/05/24)
-Suite au commentaire de Lia Sae sur Twitter, **Socialstyrelsen** avait erronnément été traduit par Sécurité sociale. Le nom original est finalement laissé dans le texte avec une note de bas de page. 
+**Socialstyrelsen** avait erronnément été traduit par Sécurité sociale. Le nom original est finalement laissé dans le texte avec une note de bas de page. Merci à Lisa Sae, sur Twitter, pour la remarque.
 :::
 
 
